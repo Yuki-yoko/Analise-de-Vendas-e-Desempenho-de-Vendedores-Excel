@@ -1,5 +1,7 @@
 # Análise de Vendas e Desempenho de Vendedores — Excel
 
+<img width="1317" height="600" alt="image" src="https://github.com/user-attachments/assets/9c7dcc97-c2b2-4752-8508-3639c448eefa" />
+
 Dashboard desenvolvido no **Microsoft Excel** para análise de vendas e desempenho comercial, permitindo acompanhar o faturamento, a quantidade de vendas e o desempenho dos vendedores ao longo dos meses.
 
 O projeto foi desenvolvido com o objetivo de transformar uma base de dados de vendas em uma ferramenta visual e interativa, facilitando a análise dos resultados por **ano, mês e vendedor**.
